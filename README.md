@@ -9,6 +9,10 @@ It combines a **LangGraph multi-agent orchestrator** with **Hybrid GraphRAG**:
 
 Project specification: [`NLP.pdf`](NLP.pdf).
 
+> **Team project — personal copy (work in progress).** Original repository: [mohammedaminechaieb/DevDoc](https://github.com/mohammedaminechaieb/DevDoc) · Team: Mohammed Amine Chaieb, Eya Dhambri, Mariem, Ghassen, Oussema.
+>
+> **My contribution (Eya Dhambri — listed as « Aya » in the ownership table):** the **knowledge-graph module** — entity and relation extraction from the Agentic-AI documentation corpus, the Neo4j schema and loader, Cypher queries, and the graph retriever used by the Hybrid GraphRAG pipeline (`graph/*`, `retrieval/graph_retriever.py`, `notebooks/01_graph_exploration.ipynb`).
+
 ## Features (NLP.pdf section 4)
 | | Feature | Handled by (intent) |
 |---|---|---|
